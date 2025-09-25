@@ -12,16 +12,16 @@ const Navbar = () => {
       <div className="flex-1 flex justify-center">
         <ul className="menu menu-horizontal px-1 gap-4">
           <li>
-            <a className="text-xl font-medium text-gray-500">Home</a>
+            <a className="text-xl font-medium text-black">Home</a>
           </li>
           <li>
-            <a className="text-xl font-medium text-gray-500">Auctions</a>
+            <a className="text-xl font-medium text-black">Auctions</a>
           </li>
           <li>
-            <a className="text-xl font-medium text-gray-500">Categories</a>
+            <a className="text-xl font-medium text-black">Categories</a>
           </li>
           <li>
-            <a className="text-xl font-medium text-gray-500">How To Works</a>
+            <a className="text-xl font-medium text-black">How To Works</a>
           </li>
         </ul>
       </div>
